@@ -15,7 +15,7 @@ header {
   position: sticky ;
   
 }
- 
+
 main {
   height: 90vh; 
   display: flex;
@@ -78,4 +78,8 @@ button {
 button:hover, button:active {
   background-color:#cde5ff;
   color: #006399;
+}
+
+h2 {
+  color:darkblue;
 }
